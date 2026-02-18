@@ -1,4 +1,4 @@
-<div align="center"> <h1>Offensive Security Analyst</h1> </div>
+<div align="center"> <h1>ARTIST / OFFESIVE SECURITY</h1> </div>
 
 Self-taught Software Engineer with 3 years of experience in IT, driven by curiosity and continuous learning.
 My focus is on offensive cybersecurity, vulnerability research, and malware research, combining cloud knowledge, web development background, and ethical hacking methodologies.
